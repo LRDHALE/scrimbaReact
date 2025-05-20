@@ -7,7 +7,7 @@ function Page() {
     <div>
       <main>
         <header>
-          <img src="reactFacts/src/react-logo.png" alt="" width="40px" />
+          <img src="reactFacts/src/assets/react-logo.png" alt="React Logo" />
         </header>
         <h1>Reason I am excited to learn React</h1>
         <ol>
